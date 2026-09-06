@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Shared/Shaiya2.Shared/Shaiya2.Shared.csproj" />
+  <Project Path="Shaiya2.Server/Shaiya2.Server.csproj" />
+</Solution>
